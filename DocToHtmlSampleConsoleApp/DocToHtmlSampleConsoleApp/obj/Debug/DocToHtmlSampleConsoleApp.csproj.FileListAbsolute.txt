@@ -1,0 +1,7 @@
+C:\Depo\VS_Projects\DocToHtmlSampleConsoleApp\DocToHtmlSampleConsoleApp\bin\Debug\DocToHtmlSampleConsoleApp.exe.config
+C:\Depo\VS_Projects\DocToHtmlSampleConsoleApp\DocToHtmlSampleConsoleApp\bin\Debug\DocToHtmlSampleConsoleApp.exe
+C:\Depo\VS_Projects\DocToHtmlSampleConsoleApp\DocToHtmlSampleConsoleApp\bin\Debug\DocToHtmlSampleConsoleApp.pdb
+C:\Depo\VS_Projects\DocToHtmlSampleConsoleApp\DocToHtmlSampleConsoleApp\obj\Debug\DocToHtmlSampleConsoleApp.csprojAssemblyReference.cache
+C:\Depo\VS_Projects\DocToHtmlSampleConsoleApp\DocToHtmlSampleConsoleApp\obj\Debug\DocToHtmlSampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Depo\VS_Projects\DocToHtmlSampleConsoleApp\DocToHtmlSampleConsoleApp\obj\Debug\DocToHtmlSampleConsoleApp.exe
+C:\Depo\VS_Projects\DocToHtmlSampleConsoleApp\DocToHtmlSampleConsoleApp\obj\Debug\DocToHtmlSampleConsoleApp.pdb
